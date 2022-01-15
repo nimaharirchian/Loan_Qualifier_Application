@@ -7,7 +7,7 @@ The purpose of this project was to add new changes to a loan qualifier applicati
 The technologies required for the loan qualifier application would Python, Pandas, fire, questionary. We used a daily_rate_sheet CSV file for the list of banks. 
 ---
 ## Installation Guide
- ### Need to download Fire and questionary.
+##### Need to download Fire and questionary.
 ---
 
 ## Usage
