@@ -1,0 +1,969 @@
+   50  ls
+   51  cd python_project
+   52  ls
+   53  cd ~/
+   54  ls -a
+   55  ls
+   56  ls -a
+   57  la -al
+   58  ls -al
+   59  ls
+   60  pwd
+   61  cd fintech_workspace
+   62  cd desktop
+   63  cd fintech_workspace
+   64  mkdir Activity-1
+   65  ls
+   66  cd Activity-1
+   67  touch hello.md
+   68  ls
+   69  mv hello.md coding.md
+   70  ls
+   71  mkdir Activity-1/terminal
+   72  cd fintech_workspace
+   73  cd ~/
+   74  cd desktop
+   75  cd fintech_workspace
+   76  mkdir Activity-1/terminal
+   77  ls
+   78  cd Activity-1
+   79  ls
+   80  cd ..
+   81  cd ..
+   82  cd fintech_workspace
+   83  cd Activity-1/terminal
+   84  cd ..
+   85  cd ..
+   86  rm -r
+   87  ls
+   88  rm -r Activity-1/
+   89  ls
+   90  clear
+   91  /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/04_Ins_Conditionals/Solved/conditionals.py
+   92  clear
+   93  cd ~/
+   94  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/08_Ins_Loops/Solved/loops.py
+   95  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/08_Ins_Loops/Solved/loops.py
+   96  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/08_Ins_Loops/Solved/loops.py
+   97  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/08_Ins_Loops/Solved/loops.py
+   98  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/08_Ins_Loops/Solved/loops.py
+   99  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  100  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  101  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  102  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  103  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  104  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  105  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  106  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  107  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  108  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  109  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  110  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  111  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  112  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  113  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  114  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  115  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  116  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  117  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  118  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  119  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  120  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  121  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  122  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  123  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  124  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  125  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  126  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  127  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  128  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  129  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  130  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  131  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  132  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  133  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  134  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  135  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  136  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  137  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  138  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  139  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  140  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  141  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  142  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  143  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  144  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  145  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  146  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  147  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  148  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  149  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  150  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  151  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/04_Ins_Conditionals/Solved/conditionals.py
+  152  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/06_Ins_Functions/Solved/functions.py
+  153  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/06_Ins_Functions/Solved/functions.py
+  154  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/06_Ins_Functions/Solved/functions.py
+  155  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/06_Ins_Functions/Solved/functions.py
+  156  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/08_Ins_Loops/Solved/loops.py
+  157  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/08_Ins_Loops/Solved/loops.py
+  158  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/08_Ins_Loops/Solved/loops.py
+  159  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  160  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  161  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  162  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+  163  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+  164  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+  165  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+  166  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+  167  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+  168  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+  169  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+  170  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+  171  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+  172  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+  173  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+  174  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+  175  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+  176  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+  177  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+  178  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+  179  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+  180  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+  181  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+  182  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+  183  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+  184  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  185  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  186  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  187  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  188  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  189  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  190  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  191  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  192  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  193  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  194  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  195  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  196  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  197  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  198  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  199  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  200  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  201  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  202  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  203  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  204  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  205  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  206  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  207  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  208  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  209  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  210  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  211  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  212  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  213  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  214  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  215  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  216  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  217  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  218  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  219  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  220  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  221  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  222  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Returned_Goods/Unsolved/returned_goods.py
+  223  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  224  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  225  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  226  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  227  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  228  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  229  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  230  cd
+  231  pwd
+  232  cd desktop
+  233  la
+  234  ls
+  235  /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/08_Ins_Loops/Solved/loops.py
+  236  /usr/local/bin/python3
+  237  /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  238  /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  239  python conditional_statements.py
+  240  03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  241  python 03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  242  python /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  243  python /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  244  pwd
+  245  cd
+  246  cd documents
+  247  mkdir vision_board_photos
+  248  cd vision_board_photos
+  249  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  250  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  251  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  252  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  253  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  254  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  255  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  256  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  257  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  258  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  259  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  260  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  261  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  262  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  263  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  264  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  265  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  266  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  267  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  268  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  269  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  270  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  271  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  272  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  273  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  274  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  275  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  276  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  277  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  278  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  279  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  280  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  281  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  282  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  283  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/05_Stu_Conditionals/Unsolved/conditionals.py
+  284  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  285  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  286  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  287  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  288  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  289  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  290  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  291  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/07_Stu_Functions/Solved/functions.py
+  292  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/09_Stu_Loops/Solved/loops.py
+  293  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/09_Stu_Loops/Solved/loops.py
+  294  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/09_Stu_Loops/Solved/loops.py
+  295  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/09_Stu_Loops/Solved/loops.py
+  296  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/Class_2_Activities/01_Stu_Variables/Solved/variables.py
+  297  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2.1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  298  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  299  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  300  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  301  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  302  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  303  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  304  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  305  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  306  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  307  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  308  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  309  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  310  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  311  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  312  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  313  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  314  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  315  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  316  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  317  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  318  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  319  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  320  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  321  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  322  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  323  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  324  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  325  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  326  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  327  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  328  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  329  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  330  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  331  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  332  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  333  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  334  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  335  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  336  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  337  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  338  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  339  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  340  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  341  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  342  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  343  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  344  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  345  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  346  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  347  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  348  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  349  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  350  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  351  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  352  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  353  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  354  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/2_1_Class_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  355  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  356  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  357  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  358  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  359  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  360  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  361  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  362  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  363  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  364  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  365  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  366  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  367  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  368  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  369  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  370  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  371  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  372  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  373  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  374  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  375  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  376  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  377  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  378  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  379  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  380  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  381  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  382  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  383  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  384  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  385  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  386  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  387  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  388  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  389  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  390  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  391  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  392  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  393  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  394  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  395  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  396  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  397  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  398  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  399  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  400  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  401  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  402  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  403  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  404  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  405  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  406  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  407  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  408  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  409  conda activate dev
+  410  pip -V
+  411  pip freeze
+  412  pip install fire
+  413  pip install questionary
+  414  cd desktop
+  415  cd fintech_worksapce
+  416  cd fintech_workspace
+  417  cd "challenge projects"
+  418  ls
+  419  git clone "git@github.com:nimaharirchian/Challenge_One.git"
+  420  gitstatus
+  421  git status
+  422  cd challenge_one
+  423  git status
+  424  git add -A
+  425  git commit -m "Added stater file"
+  426  git push
+  427  pwd
+  428  conda activate dev
+  429  ls
+  430  pwd
+  431  git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  432  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  433  cd desktop
+  434  cd fintech_workspace
+  435  cd ucb_
+  436  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  437  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  438  cd desktop
+  439  cd fintech_workspace
+  440  cd ucb_
+  441  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  442  git pull
+  443  git pull main
+  444  ls
+  445  cd UCB-VIRT-FIN-PT-12-2021-U-B
+  446  git pull main
+  447  git pull origin main
+  448  git pull
+  449  ...
+  450  ..
+  451  ~/
+  452  ~/.
+  453  cd desktop
+  454  cd fintech_workspace
+  455  cd "Challenge Projects"
+  456  cd challenge_one
+  457  ~/
+  458  pwd
+  459  ..
+  460  cd desktop
+  461  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  462  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  463  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  464  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  465  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  466  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Starter_Code/loan_analyzer.py"
+  467  conda activate atmdev
+  468  conda info --envs
+  469  import fire
+  470  questionary (master) python -m
+  471  $ pip install questionary
+  472  pip install questionary
+  473  import questionary
+  474  conda activate dev
+  475  cd desktop
+  476  cd fintech_workspace
+  477  pip install fire
+  478  conda install fire -c conda-forge
+  479  pip install questionaire
+  480  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  481  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  482  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  483  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  484  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  485  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  486  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  487  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  488  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  489  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  490  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  491  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  492  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  493  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  494  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  495  ls -al ~/.ssh
+  496  ls 
+  497  cd desktop
+  498  cd fintech_workspace
+  499  cd python_projects
+  500  cd python_project
+  501  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  502  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  503  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  504  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  505  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  506  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  507  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  508  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  509  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  510  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  511  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  512  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  513  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  514  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  515  /usr/local/bin/python3 "/Users/nimaharirchian/Desktop/Fintech_Workspace/Challenge Projects/Challenge_One/Starter_Code/loan_analyzer.py"
+  516  /usr/local/bin/python3 /Users/nimaharirchian/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  517  /usr/local/bin/python3 /Users/nimaharirchian/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  518  /usr/local/bin/python3 /Users/nimaharirchian/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  519  /usr/local/bin/python3 /Users/nimaharirchian/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  520  /usr/local/bin/python3 /Users/nimaharirchian/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  521  /usr/local/bin/python3 /Users/nimaharirchian/Downloads/01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  522  /usr/local/bin/python3 /Users/nimaharirchian/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  523  /usr/local/bin/python3 /Users/nimaharirchian/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  524  /usr/local/bin/python3 /Users/nimaharirchian/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  525  /usr/local/bin/python3 /Users/nimaharirchian/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  526  /usr/local/bin/python3 /Users/nimaharirchian/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  527  python app.py
+  528  ls
+  529  ls
+  530  ls -al ~/.ssh
+  531  ssh-keygen -t rsa -b 4096 -C "nimaharirchian-twDxxb@gitlab.com"
+  532  cat ~/.ssh/id_rsa.pub
+  533  cd desktop
+  534  cd fintech_worspace
+  535  cd fintech_workspace
+  536  cd python_project
+  537  /usr/local/bin/python3 /Users/nimaharirchian/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/fileio.py
+  538  python app.py
+  539  python calculators.py
+  540  /usr/local/bin/python3 /Users/nimaharirchian/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/calculators.py
+  541  /usr/local/bin/python3 /Users/nimaharirchian/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/calculators.py
+  542  /usr/local/bin/python3 /Users/nimaharirchian/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/calculators.py
+  543  /usr/local/bin/python3 /Users/nimaharirchian/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/calculators.py
+  544  /usr/local/bin/python3 /Users/nimaharirchian/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/calculators.py
+  545  /usr/local/bin/python3 /Users/nimaharirchian/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/calculators.py
+  546  /usr/local/bin/python3 /Users/nimaharirchian/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/calculators.py
+  547  /usr/local/bin/python3 /Users/nimaharirchian/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  548  /usr/local/bin/python3 /Users/nimaharirchian/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/qualifier/filters/max_loan_size.py
+  549  /usr/local/bin/python3 /Users/nimaharirchian/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/qualifier/filters/max_loan_size.py
+  550  import fire
+  551  pwd
+  552  pwd
+  553  cd desktop
+  554  pwd
+  555  ..
+  556  ...
+  557  ~/.
+  558  ~/
+  559  ~/.
+  560  lw
+  561  ls
+  562  cd ..
+  563  touch fintech_workspace
+  564  ls
+  565  touch fintech_workspace ls
+  566  cd desktop
+  567  touch fintech_workspace
+  568  touch fintech_workspace ls
+  569  ls
+  570  cd ..
+  571  pip install fire
+  572  import fire
+  573  cd desktop
+  574  cd fintech_workspace
+  575  cd python_project
+  576  cd cli.py
+  577  python cli.py
+  578  import fire
+  579  python import fire
+  580  pip install fire
+  581  import fire
+  582  conda activate dev
+  583  import fire
+  584  pip install fire
+  585  import fire
+  586  cd desktop
+  587  ls
+  588  cd cli.py
+  589  python cli.py
+  590  cd desktop
+  591  python cli.py
+  592  cd desktop
+  593  python cli.py
+  594  cd python_project
+  595  cd fintech_workspace
+  596  cd python_project
+  597  python cli.py
+  598  ls
+  599  cd ..
+  600  cd ..
+  601  python cli.py
+  602  cd desktop
+  603  python cli.py
+  604  python cli.py
+  605  python cli.py
+  606  python cli.py
+  607  python cli.py
+  608  python cli.py
+  609  python cli.py --pants=True
+  610  pythony cli.py --pants=False
+  611  python cli.py --pants=true
+  612  python cli.py --pants=true
+  613  pip install questionary
+  614  ls
+  615  python dialog.py
+  616  python dialog.py
+  617  cd fintech_workspace
+  618  python app.py --credit_score=750 --debt=5000 --income=2000
+  619  cd 02_Adding_questionary_to_loan_qualifier
+  620  ls
+  621  cd unsolved
+  622  python app.py --credit_score=750 --debt=5000 --income=2000
+  623  python app.py
+  624  python app.py
+  625  python app.py
+  626  python app.py
+  627  python app.py
+  628  python app.py
+  629  cd ..
+  630  cd solved
+  631  python app.py
+  632  cd ..
+  633  cd unsolved
+  634  python app.py
+  635  python app.py
+  636  /usr/local/bin/python3 Untitled-1
+  637  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/cli.py
+  638  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/cli.py
+  639  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/cli.py
+  640  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/cli.py
+  641  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/cli.py
+  642  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/cli.py
+  643  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/cli.py
+  644  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/cli.py
+  645  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/cli.py
+  646  cd desktop
+  647  cd ..
+  648  cd ..
+  649  cd desktop
+  650  import fire
+  651  python cli.py
+  652  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/cli.py
+  653  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/cli.py
+  654  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/cli.py
+  655  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/Python_Project/cli.py
+  656  python cli.py
+  657  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/cli.py
+  658  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  659  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/dialogue.py
+  660  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/dialog.py
+  661  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/dialog.py
+  662  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/dialog.py
+  663  /usr/local/bin/python3 /Users/nimaharirchian/Desktop/Fintech_Workspace/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  664  git config --global user.name <Nima Harirchian>
+  665  git config --global user.email <nimaharirchian@github.com>
+  666  git config --list
+  667  git config --global user.name nimaharirchian@github.com
+  668  git config --list
+  669  cd desktop
+  670  cd fintech_workspace
+  671  cd python_project
+  672  git clone git@github.com:nimaharirchian/Test_Repo.git
+  673  git clone https://github.com/nimaharirchian/Test_Repo.git
+  674  git status
+  675  cd test_repo
+  676  git status
+  677  git add README.md
+  678  git status
+  679  touch new_file
+  680  ls
+  681  git status
+  682  git add new_file
+  683  git status
+  684  git commit -m "Oh nice look at this"
+  685  git status
+  686  git push
+  687  git push
+  688  git push
+  689  git push
+  690  cd ..
+  691  cd ..
+  692  cd..
+  693  cd ..
+  694  cd ..
+  695  git clone https://github.com/nimaharirchian/test__2.git
+  696  conda activate dev
+  697  jupyter lab
+  698  conda deactivate
+  699  conda activate dev
+  700  jupyter lab
+  701  conda deactivate
+  702  cd desktop
+  703  cd fintech_workspace
+  704  cd 01_Importing_The_VIX
+  705  cd unsolved
+  706  conda activate dev
+  707  jupyter lab
+  708  cd ..
+  709  cd unsolved
+  710  cd ..
+  711  conda deactivate
+  712  conda activate dev
+  713  jupyter lab
+  714  conda deactivate
+  715  cd ..
+  716  cd Headless_Horseman
+  717  cd Headerless_Horsemen
+  718  conda activate dev
+  719  jupyter lab
+  720  cd ..
+  721  cd IPO_Excitment
+  722  cd IPO_Excitement
+  723  ls
+  724  conda activate dev
+  725  jupyter lab
+  726  cd ..
+  727  conda deactivate
+  728  ls
+  729  cd Class_5_Activities
+  730  conda activate dev
+  731  pip freeze
+  732  conda deactivate
+  733  pip freeze
+  734  conda activate dev
+  735  pip freeze
+  736  pip install fire
+  737  pip install questionary
+  738  jupyter lab
+  739  cd desktop
+  740  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  741  cd work_here
+  742  cd UCB
+  743  conda activate dev
+  744  jupyter lab
+  745  cd desktop
+  746  cd fintech_workspace
+  747  ls
+  748  cd "Challenge Projects"
+  749  cd loan_qualifier_app
+  750  cd starter_code_2
+  751  cd loan_qualifier_app
+  752  conda activate dev
+  753  jupyter lab
+  754  jupyter lab
+  755  cd ..
+  756  cd ..
+  757  cd ..
+  758  ls
+  759  cd Missing_Money
+  760  jupyter lab
+  761  conda deactivate
+  762  cd ..
+  763  cd "Challenge Projects"
+  764  ls
+  765  cd_starter_code_2
+  766  cd starter_code_2
+  767  ls
+  768  cd loan_qualifier_app
+  769  conda activate dev
+  770  jupyter lab
+  771  conda activate dev
+  772  cd desktop
+  773  cd fintech_workspace
+  774  cd ls
+  775  ls
+  776  cd desktop
+  777  cd fintech_workspace
+  778  cd "Challenge Projects"
+  779  ls
+  780  cd starter_code_2
+  781  ls
+  782  cd loan_qualifier_app
+  783  ls
+  784  conda activate dev
+  785  python app.py
+  786  git status
+  787  cd ..
+  788  git clone git@github.com:nimaharirchian/Loan_Qualifier_Application.git
+  789  git clone https://github.com/nimaharirchian/Loan_Qualifier_Application.git
+  790  ls
+  791  cd loan_qualifier_application
+  792  git add -A
+  793  git commit -m
+  794  git commit -m "Added starter code"
+  795  git push
+  796  git push
+  797  git push
+  798  git push
+  799  git push
+  800  cd desktop
+  801  conda activate dev
+  802  cd fintech_workspace
+  803  cd "Challenge Projects"
+  804  git clone git@github.com:nimaharirchian/Loan_Qualifier_Application.git
+  805  git clone https://github.com/nimaharirchian/Loan_Qualifier_Application.git
+  806  cd Loan_Qualifier_Application
+  807  ls
+  808  git push
+  809  ssh-keygen -t rsa -b 4096 -C "nimaharirchian@github.com"
+  810  eval "$(ssh-agent -s)"
+  811  ssh-add ~/.ssh/id_rsa
+  812  pbcopy < ~/.ssh/id_rsa.pub
+  813  ssh -T git@github.com
+  814  git clone git@github.com:nimaharirchian/Loan_Qualifier_Application.git
+  815  cd ..
+  816  cd ~
+  817  cd desktop
+  818  cd fintech_workspace
+  819  cd "Challenge Projects"
+  820  git clone git@github.com:nimaharirchian/Loan_Qualifier_Application.git
+  821  cd loan_qualifier_application
+  822  git add -A
+  823  git commit -m "Deleted Comment"
+  824  git push
+  825  jupyter lab
+  826  cd desktop
+  827  cd fintech_workspace
+  828  cd "module 3"
+  829  ls
+  830  cd dollars_and_change
+  831  conda activate dev
+  832  jupyter lab
+  833  cd desktop
+  834  conda activate dev
+  835  jupyter lab
+  836  cd desktop
+  837  cd fintech_workspace
+  838  ls
+  839  cd "module 3"
+  840  ls
+  841  cd 01_Visualize_The_VIX
+  842  conda activate dev
+  843  jupyter lab
+  844  cd desktop
+  845  cd fintech_workspace
+  846  ls
+  847  cd work_here
+  848  conda activate dev
+  849  jupyter lab
+  850  cd desktop
+  851  cd fintech_workspace
+  852  ls
+  853  cd "module 3"
+  854  ls
+  855  cd 02_Rowing_for_yield
+  856  conda activate dev
+  857  jupyter lab
+  858  cd ..
+  859  cd 03_Rowing_for_Yield_Redux
+  860  jupyter lab
+  861  cd desktop
+  862  cd fintech_workspace
+  863  ls
+  864  cd "Module 3"
+  865  ls
+  866  cd 03_Rowing_for_Yield_Redux
+  867  ls
+  868  conda activate dev
+  869  jupyter lab
+  870  cd desktop
+  871  cd fintech_workspace
+  872  cd "Module 3"
+  873  cd 04_Banking_Bonanza
+  874  conda activate dev
+  875  jupyter lab
+  876  cd desktop
+  877  cd fintech_workspace
+  878  ls
+  879  cd challenge_projects
+  880  ls
+  881  cd loan_qualifier_application
+  882  conda activate dev
+  883  jupyter lab
+  884  cd desktop
+  885  cd fintech_workspace
+  886  cd "module 3"
+  887  ls
+  888  cd Bitcoin_Collections
+  889  conda activate dev
+  890  ls
+  891  jupyter lab
+  892  cd desktop
+  893  cd fintech_workspace
+  894  cd "module 3"
+  895  cd 01_bitcoin_collections
+  896  ls
+  897  cd 01_Bitcoin_Collections
+  898  ls
+  899  cd 01-Bitcoin_Collections
+  900  conda activate dev
+  901  ls
+  902  jupyter lab
+  903  cd desktop
+  904  cd fintech_workpace
+  905  cd "Module 3"
+  906  ls
+  907  cd fintech_workspace
+  908  cd "module 3"
+  909  ls
+  910  cd 02-Bitcoin_Summary_Statistics
+  911  conda activate dev
+  912  jupyter lab
+  913  cd desktop
+  914  cd fintech_workspace
+  915  cd "module 3"
+  916  ls
+  917  cd 03-Bitcoin_Month_Week_Day
+  918  conda activate dev
+  919  jupyter lab
+  920  conda activate dev
+  921  python app.py
+  922  ls
+  923  cd loan_qualifier_application
+  924  ls
+  925  loan_qualifier_app
+  926  cd loan_qualifier_app
+  927  ls
+  928  python app.py
+  929  ../Loan_Qualifier_Application/loan_qualifier_app/data/daily_rate_sheet.csv
+  930  ls
+  931  conda activate dev
+  932  git add -A
+  933  git commit -m "Deleted Comments and made changes to readme file"
+  934  git push
+  935  cd desktop
+  936  cd fintech_workspace
+  937  cd challenge_projects
+  938  ls
+  939  cd loan_qualifier_Application
+  940  conda activate dev
+  941  jupyter lab
+  942  conda activate dev
+  943  history 50 > terminal
+  944  history 50 > terminal
+  945  history > terminak_history.txt
+  946  conda activate dev
+  947  history 50 > terminal_history.txt
+  948  cd ..
+  949  ls
+  950  git commit -A
+  951  git add -
+  952  git add -A
+  953  git commit -m "added command history"
+  954  git push
+  955  git push
+  956  cd loan_qualifier_app
+  957  ls
+  958  git push
+  959  cd desktop
+  960  cd fintech_workspace
+  961  ls
+  962  cd challenge_projects
+  963  conda activate dev
+  964  git clone git@github.com:nimaharirchian/Loan_Qualifier_Application.git
+  965  ls
+  966  cd loan_qualifier_application
+  967  ls
+  968  cd loan
+  969  cd loan_qualifier_app
+  970  ls
+  971  jupyter lab
+  972  cd desktop
+  973  cd fintech_workspace
+  974  cd challenge_projects
+  975  ls
+  976  cd Loan_qualifier_application
+  977  ls
+  978  gitpush
+  979  git add -A
+  980  git commit -m "Added command history"
+  981  git push
+  982  cd desktop
+  983  cd fintech_workspace
+  984  cd challenge_projects
+  985  ls
+  986  cd loan_qualifier_application
+  987  cd loan_qualifier_app
+  988  conda activate dev
+  989  ls
+  990  git push
+  991  git add -A
+  992  git commit -m "Added terminal history"
+  993  git push
+  994  cd desktop
+  995  cd fintech_workspace
+  996  cd challenge_projects
+  997  cd loan_qualifier_app
+  998  conda activate dev
+  999  git clone git@github.com:nimaharirchian/Loan_Qualifier_Application.git
+ 1000  git add -A
+ 1001  conda activate dev
+ 1002  ls
+ 1003  git init
+ 1004  ls
+ 1005  git add app.py
+ 1006  git commit -m "Added python file"
+ 1007  git push
+ 1008  git add data/
+ 1009  git commit -m "Added data folder"
+ 1010  git push
+ 1011  git status
+ 1012  git add README.md
+ 1013  git commit -m "MAde changes to README file"
+ 1014  git push
+ 1015  git status
+ 1016  git add data/
+ 1017  ls
+ 1018  git add qualifier/
