@@ -6,11 +6,11 @@
 ## *Technologies*
 ##### The technologies required for the loan qualifier application would Python, Pandas, fire, questionary. We used a daily_rate_sheet CSV file for the list of banks. 
 ---
-## Installation Guide
+## *Installation Guide*
 ##### Need to download Fire and questionary.
 ---
 
-## Usage
+## *Usage*
 This section should include screenshots, code blocks, or animations explaining how to use your project.
 ---
 
@@ -18,5 +18,5 @@ This section should include screenshots, code blocks, or animations explaining h
 ##### Nima Harirchian
 ---
 
-## License
+## *License*
 ---
